@@ -1,0 +1,20 @@
+/*Gerais*/
+
+.btn-cafe{
+    color: #ffff;
+    width: 30%;
+    background-color: black;
+    padding: 5px;
+    border: none;
+}
+
+.sobre{
+    background: url(../imgs/servindo-café.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 600px;
+}
+
+
+
+
